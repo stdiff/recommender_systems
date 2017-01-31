@@ -1,9 +1,15 @@
-# Construction of a recommender system
+# Analysis and Experiment in relation to recommender systems
 
 This repository consists of 
 
 - Python scripts in which functions for recommender system are implimented.
 - Documents about implimentation and analysis of recommender systems.
+
+## Disclaimer 
+
+- I respect the reproducibility, however the result might be changed due to
+  modification of scripts.
+- At your own risk.
 
 ## Files
 
